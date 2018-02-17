@@ -1,2 +1,2 @@
 # helveticoin
-The first blockchain based crowdfunding platform. Made in Switzerland
+The first blockchain based crowdfunding platform. Made in Switzerland.
