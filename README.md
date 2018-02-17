@@ -1,2 +1,2 @@
 # helveticoin.io
-The first blockchain based crowdfunding platform. Made in Switzerland.
+This repository shows the documents of the first blockchain based crowdfunding platform Helveticoin.
